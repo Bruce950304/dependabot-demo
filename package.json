@@ -5,6 +5,6 @@
   "description": "Throwaway demo for Assignment 9. Never deploy.",
   "dependencies": {
     "lodash": "4.17.15",
-    "minimist": "1.2.0"
+    "minimist": "1.2.6"
   }
 }
