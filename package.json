@@ -1,0 +1,10 @@
+{
+  "name": "dependabot-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Throwaway demo for Assignment 9. Never deploy.",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "1.2.0"
+  }
+}
